@@ -2,7 +2,7 @@
  <span style="color:gray; font-weight:bold;">Vehicle Names Generator Changelog</span>
  </h1>
 
-# V1.3.0 Public
+# V1.0.0 Public
 
 ### **Initial Release**
 
