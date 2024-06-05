@@ -5,8 +5,6 @@
 # V1.3.0 Public
 
 ### **Initial Release**
->- Added a loading screen.
->- Added a 'Copy to Clipboard' button for seamless manifest generation.
 
 ### ***Known Bugs:***
 >- Mobile version requires further improvements; it is currently functional but contains several bugs.
